@@ -1,0 +1,150 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.21)  21 SEP 2017 17:37
+entering extended mode
+**./Vodafone.tex
+(Vodafone.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (Vodafone.aux)
+\openout1 = `Vodafone.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+[1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+] (Vodafone.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `Vodafone.toc'.
+
+
+[3] [4
+
+]
+Chapter 1.
+Missing character: There is no â in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no ¬ in font cmr10!
+[5] [6]
+Chapter 2.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+ [7
+
+] [8]
+Chapter 3.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Overfull \hbox (8.58394pt too wide) in paragraph at lines 94--95
+[]\OT1/cmr/m/n/10 Network in-fras-truc-ture Voda-fones net-work in-fras-truc-tu
+re pro-vides the means
+ []
+
+[9
+
+]
+Overfull \hbox (5.05469pt too wide) in paragraph at lines 116--116
+[]\OT1/cmr/bx/n/14.4 What are the cri-te-ria to fo-cus on when choos-
+ []
+
+
+Overfull \hbox (34.2895pt too wide) in paragraph at lines 116--116
+\OT1/cmr/bx/n/14.4 ing be-tween dif-fer-ent cloud com-put-ing providers? 
+ []
+
+[10]
+Overfull \hbox (270.86636pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 3.7.  WHAT ARE THE CRITERIA TO FOCUS ON WHEN CHOOSING BETWEEN 
+DIFFERENT CLOUD COMPUTING PROVIDERS? \OT1/cmr/m/n/10 11
+ []
+
+[11] [12
+
+]
+Chapter 4.
+[13] (Vodafone.aux) ) 
+Here is how much of TeX's memory you used:
+ 282 strings out of 493323
+ 3077 string characters out of 3139037
+ 58648 words of memory out of 3000000
+ 3889 multiletter control sequences out of 15000+200000
+ 9460 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,19p,513b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Vodafone.pdf (13 pages, 115826 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

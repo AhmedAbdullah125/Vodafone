@@ -1,0 +1,27 @@
+\contentsline {chapter}{\numberline {1}Business Architecture}{5}
+\contentsline {section}{\numberline {1.1}Mission}{5}
+\contentsline {section}{\numberline {1.2}Vision}{5}
+\contentsline {section}{\numberline {1.3}Challenges}{5}
+\contentsline {section}{\numberline {1.4}Mergers \& Acquisitions}{5}
+\contentsline {section}{\numberline {1.5}Future Growth}{6}
+\contentsline {chapter}{\numberline {2}Information Architecture}{7}
+\contentsline {section}{\numberline {2.1}Nature Of Vodafone Information}{7}
+\contentsline {section}{\numberline {2.2}Information User Need To Deal With}{7}
+\contentsline {section}{\numberline {2.3}Information we need to store}{7}
+\contentsline {section}{\numberline {2.4} Information Growth Rate}{8}
+\contentsline {section}{\numberline {2.5}Best / Most suitable storage solution}{8}
+\contentsline {section}{\numberline {2.6}How Information Architecture Will Affect Our Future Capabilities}{8}
+\contentsline {chapter}{\numberline {3}Information Technology Architecture}{9}
+\contentsline {section}{\numberline {3.1}What Is Our IT Infrastructure Capabilities?}{9}
+\contentsline {section}{\numberline {3.2}Does It Fit Our Needs?}{9}
+\contentsline {section}{\numberline {3.3}Does it fit our future needs?}{9}
+\contentsline {section}{\numberline {3.4}How Can We Face The Information Architecture Challenges}{10}
+\contentsline {section}{\numberline {3.5}Shall We Move To Cloud Computing?}{10}
+\contentsline {section}{\numberline {3.6}Which Model We Use?}{10}
+\contentsline {section}{\numberline {3.7}What are the criteria to focus on when choosing between different cloud computing providers?}{10}
+\contentsline {subsection}{\numberline {3.7.1}Know Your Business Objectives}{10}
+\contentsline {subsection}{\numberline {3.7.2}Security and cost}{10}
+\contentsline {subsection}{\numberline {3.7.3}Data management}{10}
+\contentsline {chapter}{\numberline {4}Software Architecture}{13}
+\contentsline {section}{\numberline {4.1}What is the best software architecture for Vodafone?}{13}
+\contentsline {section}{\numberline {4.2}How this software architecture helps with facing the mentioned challenges?}{13}
